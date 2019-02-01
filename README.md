@@ -10,4 +10,9 @@
     - packeage.json 생성
 - [x] package.json 정리
 - [x] express 설치
+- [ ] express 공식 홈페이지 
+    - Hello world예제
+    - node_modules 에서 불러오는 방식
+      - node-modules/express/index.js - lib/express.js
+- [ ] d
 - [ ] 
