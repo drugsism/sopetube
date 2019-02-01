@@ -1,0 +1,12 @@
+{
+  "name": "sopetube",
+  "version": "1.0.0",
+  "description": "Clone Youtube with Vanilia and Nodejs",
+  "main": "index.js",
+  "author": "sope",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nvm": "0.0.4"
+  }
+}
