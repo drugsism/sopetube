@@ -1,5 +1,9 @@
 # sopeTube
 
+## Clone Youtube with VaniliaJS and Nodejs
+Javascript와 nodejs를 사용해서 초보 개발자에게 js stack의 기초를 학습하도록 만든 커리큘럼
+
+
 ## 학습목차
 상세 설명은 각 항목별 주석으로 풀어 작성한다.
 
