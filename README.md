@@ -44,5 +44,12 @@ Javascript와 nodejs를 사용해서 초보 개발자에게 js stack의 기초�
 - [ ] Route 설명
     - router.js 생성
     - user route... 예시
+    - routes 분기 -single source of truth
+    - app.js, routes.js and each routers 설명
 - [ ] MVC Pattern
+    - Controller 로직
+    - constrollers 폴더 생성
+      - userController.js, videoController.js 생성
+    - controller는 routes의 response 실행부분을 export
+    - 각 router의 res.send 실행부를 controller로 분기
 
