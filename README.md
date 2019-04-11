@@ -7,23 +7,23 @@ Javascript와 nodejs를 사용해서 초보 개발자에게 js stack의 기초�
 ### 학습목차
 상세 설명은 각 항목별 주석으로 풀어 작성한다.
 
-- [x] 디렉토리 생성 
+- [ ] 디렉토리 생성 
     - 프로젝트 이름으로 폴더 생성
     - cd foldername
-- [x] npm 설치
+- [ ] npm 설치
     - npm 설명
     - npm 설치
-- [x] npm init
+- [ ] npm init
     - packeage.json 생성
-- [x] package.json 정리
-- [x] express 설치
-- [x] express 공식 홈페이지 
+- [ ] package.json 정리
+- [ ] express 설치
+- [ ] express 공식 홈페이지 
     - Hello world예제
     - node_modules 에서 불러오는 방식
       - node-modules/express/index.js - lib/express.js
     - routing해서 확인
       - req, res object res.send('')
-- [x] 최신 Javascript를 사용하기위해 babel세팅
+- [ ] 최신 Javascript를 사용하기 위한 babel세팅
     - npm install @babel/core @babel/node @babel/preset-env
     - .babelrc 파일 생성 후 Preset 설정
     - ES6의 기본 문법
@@ -32,3 +32,17 @@ Javascript와 nodejs를 사용해서 초보 개발자에게 js stack의 기초�
     - nodemon설치 
       - dependenceies 설명 --save -dev
       - 잊지말고 package.json 수정 nodemon --exec babel-node index.js
+      - delay 2 option babel이 코드를 변환할 시간을 준다
+- [ ] Middleware
+    - 기능 설명
+    - request, response, next
+    - morgan, body-parser, cookie-parser, helmet 각 middleware 설명
+- [ ] init 모듈 분기
+    - ES6 모듈 설명
+    - app export default
+    - package.json start수정
+- [ ] Route 설명
+    - router.js 생성
+    - user route... 예시
+- [ ] MVC Pattern
+
